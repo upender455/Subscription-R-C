@@ -62,4 +62,3 @@ if st.button("Predict Churn"):
 
         except Exception as e:
             st.error(f"Prediction error: {e}")
-     
